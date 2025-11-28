@@ -1,0 +1,58 @@
+Tela Inicial:
+
+┌─────────────────────────────────────────┐
+│        MUSEU 13 DE MAIO - ACERVO        │
+│                                         │
+│   [1]  SOU FUNCIONÁRIO DO MUSEU         │
+│                                         │  
+│   [2]  SOU DA COMUNIDADE                │
+│                                         │
+└─────────────────────────────────────────┘
+
+Se for selecionado 1:
+
+┌─────────────────────────────────────────┐
+│           LOGIN FUNCIONÁRIO             │
+│                                         │
+│  Senha: [_______________]               │
+│                                         │
+│       [ENTRAR]    [VOLTAR]              │
+└─────────────────────────────────────────┘
+
+┌─────────────────────────────────────────┐
+│         PAINEL DO FUNCIONÁRIO           │
+│                                         │
+│  [1]    GERENCIAR ACERVO                │
+│  [2]    CADASTRAR USUÁRIOS              │
+│  [3]    CONTROLE DE EMPRÉSTIMOS         │
+│  [4]    RELATÓRIOS                      │
+│  [5]    ACERVO HISTÓRICO               │
+│                                         │
+│  [0] SAIR                               │
+└─────────────────────────────────────────┘
+GERENCIAR ACERVO:
+┌─────────────────────────────────────────┐
+│           GERENCIAR ACERVO              │
+│                                         │
+│  [1]  CADASTRAR NOVO LIVRO             │
+│  [2]   EDITAR LIVRO EXISTENTE          │
+│  [3]  REMOVER LIVRO                    │
+│  [4]  CONSULTAR ACERVO                │
+│                                         │
+│  [0] VOLTAR                             │
+└─────────────────────────────────────────┘
+
+CADASTRAR LIVROS:
+
+┌─────────────────────────────────────────┐
+│           CADASTRAR NOVO LIVRO          │
+│                                         │
+│  Título:                                │
+│  Autor:                                 │
+│  Ano:                                   │
+│  Editora:                               │
+│  Categoria:                             │
+│  ISBN:                                  │
+│                                         │
+│       [SALVAR]    [CANCELAR]            │
+└─────────────────────────────────────────┘
